@@ -38,5 +38,5 @@ public class Patient {
 		this.symptoms = symptoms;
 	}
 
-}
+}//done
 	
