@@ -5,7 +5,7 @@ public class Patient {
 	private String species;
 	private String breed;
 	private String gender;
-	private int age;
+	private String age;
 	private String symptoms;
 	public String getSpecies() {
 		return species;
@@ -25,10 +25,10 @@ public class Patient {
 	public void setGender(String gender) {
 		this.gender = gender;
 	}
-	public int getAge() {
+	public String getAge() {
 		return age;
 	}
-	public void setAge(int age) {
+	public void setAge(String age) {
 		this.age = age;
 	}
 	public String getSymptoms() {
