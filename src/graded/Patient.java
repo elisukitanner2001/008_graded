@@ -37,6 +37,5 @@ public class Patient {
 	public void setSymptoms(String symptoms) {
 		this.symptoms = symptoms;
 	}
-
 }//done
 	

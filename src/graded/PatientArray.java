@@ -50,7 +50,6 @@ public class PatientArray {
 		
 		myPatients[9] = new Patient();
 		
-
 		
 	}
 
